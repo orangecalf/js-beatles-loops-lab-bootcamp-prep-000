@@ -15,7 +15,7 @@ function johnLennonFacts(facts) {
   var a = 0
   var ping = []
   var d = "!!!"
-  while () {
+  while (a === facts.length) {
     ping.push(facts[a] + d)
     a++
   }
