@@ -21,3 +21,10 @@ function johnLennonFacts(facts) {
   }
   return ping
 }
+
+function iLoveTheBeatles(n) {
+  var array = []
+  do {
+    array.push("")
+  }
+}
