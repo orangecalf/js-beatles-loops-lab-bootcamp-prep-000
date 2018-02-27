@@ -28,6 +28,6 @@ function iLoveTheBeatles(n) {
     n++
     array.push("I love the Beatles!")
   }
-  while (n < 13) 
+  while (n < 15) 
   return array
 }
